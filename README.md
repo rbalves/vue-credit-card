@@ -1,3 +1,10 @@
+# vue-credit-card
+Credit Card Form
+
+# Tools
+* Vue : [https://vuejs.org/](https://vuejs.org/)
+* Vuetify : [https://vuetifyjs.com](https://vuetifyjs.com)
+* Card Validator : [https://github.com/braintree/card-validator](https://github.com/braintree/card-validator)
 
 # Getting Started
 ## Install dependencies
