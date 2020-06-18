@@ -1,7 +1,7 @@
 # vue-credit-card
 Credit Card Form
 
-![Page](https://github.com/rbalves/vue-credit-card/blob/master/src/assets/page.jpg?raw=true)
+![Page](https://github.com/rbalves/vue-credit-card/blob/master/src/assets/page.JPG)
 
 # Tools
 * Vue : [https://vuejs.org/](https://vuejs.org/)
