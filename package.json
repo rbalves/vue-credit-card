@@ -13,7 +13,7 @@
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
     "vue-the-mask": "^0.11.1",
-    "vuetify": "^2.0.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
